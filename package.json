@@ -18,6 +18,10 @@
 	"repository": "https://github.com/shinken-monitoring/pack-iis",
 	"keywords": [
 	  "pack",
+	  "microsoft",
+	  "http",
+	  "https",
+	  "iis"
 	  
 	],
 	"dependencies": {
